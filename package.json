@@ -1,0 +1,11 @@
+{
+    "name": "simple_api",
+    "version": "1.0.0",
+    "description": "A Simple API developed on Node.js API server",
+    "author": "Claudio Heidel",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3"
+    }
+}
