@@ -8,7 +8,7 @@ metadata:
     app: simpleapi
     tier: backend
 spec:
-  replicas: 2
+  replicas: 3
   # Pod Template
   template:
     metadata:
